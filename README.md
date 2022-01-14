@@ -1,0 +1,2 @@
+# chocofuzz
+Rust fuzzer
